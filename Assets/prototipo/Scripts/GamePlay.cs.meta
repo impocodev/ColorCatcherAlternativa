@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ad7bd9235822746c992f3a63818bb31c
+timeCreated: 1459281532
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - baldosa: {fileID: 115912, guid: 13c1c81ecd47c4a96a357d24622d3aba, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

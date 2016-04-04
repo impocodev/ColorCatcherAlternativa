@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f8085f12337584bba9509f3de31c2856
+timeCreated: 1459281590
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cuboAmarillo: {fileID: 192272, guid: 40feffa91d97af84a84e70976f9b6797, type: 2}
+  - cuboRojo: {fileID: 113354, guid: 0f0eba03ec041dc43af9d5ef84672906, type: 2}
+  - cuboAzul: {fileID: 129958, guid: 6ea2cfb250bf42c49a60282f681d0381, type: 2}
+  - cuboFucsia: {fileID: 180738, guid: 9c2b31ed10ead3a4a9ebdb1a62fbf981, type: 2}
+  - cuboVerde: {fileID: 101330, guid: fc233b63e1f8842489b7f8b3903ad70e, type: 2}
+  - cuboBlanco: {fileID: 167982, guid: 75610e1d2d1f2ae43bd9503d6ef241aa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

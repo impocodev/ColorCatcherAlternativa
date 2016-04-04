@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/prototipo/Scripts/ModoContrareloj.cs">
+    <Files>
+      <File FileName="Assets/prototipo/Scripts/GameManeger.cs" Line="1" Column="1" />
+      <File FileName="Assets/prototipo/Scripts/GamePlay.cs" Line="13" Column="2" />
+      <File FileName="Assets/prototipo/Scripts/ModoContrareloj.cs" Line="10" Column="7" />
+      <File FileName="Assets/impoqo/Assets/Scripts/InterficieInicio.cs" Line="23" Column="4" />
+      <File FileName="Assets/prototipo/Scripts/BombAttack.cs" Line="28" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
